@@ -36,6 +36,6 @@ jobs:
           commit-message: |
             Update progress
 
-            Co-authored-by: Loego <atos3star@gmail.com>
+            Co-authored-by: AtosLabs <lord.atos0411@gmail.com>
           title: Update progress
           branch: update-progress
